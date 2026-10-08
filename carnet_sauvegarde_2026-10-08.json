@@ -1,0 +1,832 @@
+{
+ "v": 2,
+ "settings": {
+  "kcalTarget": 3100,
+  "weightTarget": 90,
+  "weeklyTarget": 3,
+  "plannedDays": [
+   0,
+   2,
+   4
+  ],
+  "startDate": "2026-09-28"
+ },
+ "exercises": [
+  {
+   "id": "mulnclawvwlyx60",
+   "name": "Hack squat / pendulum",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Fessiers",
+    "Adducteurs"
+   ],
+   "sets": 3,
+   "repMin": 8,
+   "repMax": 10,
+   "rest": 120,
+   "inc": 5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": "Gym80 / Panatta"
+  },
+  {
+   "id": "mulnclawyp56th1",
+   "name": "Chest press Iso-Lateral",
+   "primary": [
+    "Pectoraux"
+   ],
+   "secondary": [
+    "Triceps",
+    "Épaules avant"
+   ],
+   "sets": 3,
+   "repMin": 8,
+   "repMax": 10,
+   "rest": 120,
+   "inc": 5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": "Hammer Strength, poignées neutres"
+  },
+  {
+   "id": "mulnclaw8tnhrp2",
+   "name": "Tirage vertical",
+   "primary": [
+    "Grand dorsal"
+   ],
+   "secondary": [
+    "Biceps",
+    "Haut du dos / trapèzes"
+   ],
+   "sets": 3,
+   "repMin": 8,
+   "repMax": 10,
+   "rest": 120,
+   "inc": 5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": "Prise neutre + sangles"
+  },
+  {
+   "id": "mulnclawpyq2mn3",
+   "name": "Leg curl assis",
+   "primary": [
+    "Ischio-jambiers"
+   ],
+   "secondary": [
+    "Mollets"
+   ],
+   "sets": 3,
+   "repMin": 10,
+   "repMax": 12,
+   "rest": 90,
+   "inc": 2.5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": ""
+  },
+  {
+   "id": "mulnclawq1pvf74",
+   "name": "Élévations latérales machine",
+   "primary": [
+    "Épaules latérales"
+   ],
+   "secondary": [
+    "Haut du dos / trapèzes"
+   ],
+   "sets": 3,
+   "repMin": 12,
+   "repMax": 15,
+   "rest": 60,
+   "inc": 2.5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": ""
+  },
+  {
+   "id": "mulnclawdp269h5",
+   "name": "Extension triceps machine",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [],
+   "sets": 2,
+   "repMin": 10,
+   "repMax": 12,
+   "rest": 60,
+   "inc": 2.5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": ""
+  },
+  {
+   "id": "mulnclawxs7keb6",
+   "name": "Crunch machine",
+   "primary": [
+    "Abdominaux"
+   ],
+   "secondary": [
+    "Obliques"
+   ],
+   "sets": 3,
+   "repMin": 10,
+   "repMax": 15,
+   "rest": 60,
+   "inc": 2.5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": ""
+  },
+  {
+   "id": "mulnclawu0cdkw7",
+   "name": "Presse à cuisses 45°",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Fessiers",
+    "Ischio-jambiers"
+   ],
+   "sets": 3,
+   "repMin": 10,
+   "repMax": 12,
+   "rest": 120,
+   "inc": 10,
+   "startWeight": null,
+   "forceW": null,
+   "notes": ""
+  },
+  {
+   "id": "mulnclawumyf2b8",
+   "name": "Rowing Iso-Lateral",
+   "primary": [
+    "Haut du dos / trapèzes"
+   ],
+   "secondary": [
+    "Grand dorsal",
+    "Biceps",
+    "Épaules arrière"
+   ],
+   "sets": 3,
+   "repMin": 8,
+   "repMax": 10,
+   "rest": 120,
+   "inc": 5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": "Hammer Strength + sangles"
+  },
+  {
+   "id": "mulnclaw3icwqv9",
+   "name": "Développé incliné machine",
+   "primary": [
+    "Pectoraux"
+   ],
+   "secondary": [
+    "Épaules avant",
+    "Triceps"
+   ],
+   "sets": 3,
+   "repMin": 8,
+   "repMax": 10,
+   "rest": 120,
+   "inc": 5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": "Hammer Strength"
+  },
+  {
+   "id": "mulnclaw8e1b2r10",
+   "name": "Hip thrust machine",
+   "primary": [
+    "Fessiers"
+   ],
+   "secondary": [
+    "Ischio-jambiers"
+   ],
+   "sets": 3,
+   "repMin": 8,
+   "repMax": 12,
+   "rest": 90,
+   "inc": 5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": "GluteBuilder"
+  },
+  {
+   "id": "mulnclawv3o6q411",
+   "name": "Leg extension",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [],
+   "sets": 2,
+   "repMin": 12,
+   "repMax": 15,
+   "rest": 60,
+   "inc": 2.5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": ""
+  },
+  {
+   "id": "mulnclaws3va8012",
+   "name": "Curl poulie basse (corde)",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Avant-bras"
+   ],
+   "sets": 2,
+   "repMin": 10,
+   "repMax": 12,
+   "rest": 60,
+   "inc": 2.5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": "Prise marteau"
+  },
+  {
+   "id": "mulnclawmplc4k13",
+   "name": "Mollets machine",
+   "primary": [
+    "Mollets"
+   ],
+   "secondary": [],
+   "sets": 3,
+   "repMin": 10,
+   "repMax": 15,
+   "rest": 60,
+   "inc": 5,
+   "startWeight": null,
+   "forceW": null,
+   "notes": ""
+  },
+  {
+   "id": "mulnclaw76jr8p14",
+   "name": "Flexion poignets poulie",
+   "primary": [
+    "Avant-bras"
+   ],
+   "secondary": [],
+   "sets": 2,
+   "repMin": 15,
+   "repMax": 20,
+   "rest": 45,
+   "inc": 1.25,
+   "startWeight": null,
+   "forceW": null,
+   "notes": "Léger, pour renforcer les poignets"
+  }
+ ],
+ "sessions": [
+  {
+   "id": "mulphuixpp8oou",
+   "date": "2026-09-28",
+   "type": "A",
+   "typeName": "Séance A",
+   "start": 1790624252252,
+   "end": 1790627693001,
+   "exos": [
+    {
+     "exId": "mulnclawvwlyx60",
+     "name": "Hack squat / pendulum",
+     "primary": [
+      "Quadriceps"
+     ],
+     "secondary": [
+      "Fessiers",
+      "Adducteurs"
+     ],
+     "sets": [
+      {
+       "w": 25,
+       "r": 12,
+       "diff": "facile",
+       "exec": "propre"
+      },
+      {
+       "w": 40,
+       "r": 9,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 40,
+       "r": 11,
+       "diff": "correct",
+       "exec": "moyen"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawyp56th1",
+     "name": "Chest press Iso-Lateral",
+     "primary": [
+      "Pectoraux"
+     ],
+     "secondary": [
+      "Triceps",
+      "Épaules avant"
+     ],
+     "sets": [
+      {
+       "w": 20,
+       "r": 7,
+       "diff": "dur",
+       "exec": "arrache"
+      },
+      {
+       "w": 20,
+       "r": 8,
+       "diff": "correct",
+       "exec": "moyen"
+      },
+      {
+       "w": 20,
+       "r": 7,
+       "diff": "dur",
+       "exec": "arrache"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclaw8tnhrp2",
+     "name": "Tirage vertical",
+     "primary": [
+      "Grand dorsal"
+     ],
+     "secondary": [
+      "Biceps",
+      "Haut du dos / trapèzes"
+     ],
+     "sets": [
+      {
+       "w": 30,
+       "r": 12,
+       "diff": "facile",
+       "exec": "propre"
+      },
+      {
+       "w": 30,
+       "r": 8,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 30,
+       "r": 8,
+       "diff": "correct",
+       "exec": "propre"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawpyq2mn3",
+     "name": "Leg curl assis",
+     "primary": [
+      "Ischio-jambiers"
+     ],
+     "secondary": [
+      "Mollets"
+     ],
+     "sets": [
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "dur",
+       "exec": "propre"
+      },
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawq1pvf74",
+     "name": "Élévations latérales machine",
+     "primary": [
+      "Épaules latérales"
+     ],
+     "secondary": [
+      "Haut du dos / trapèzes"
+     ],
+     "sets": [
+      {
+       "w": 10,
+       "r": 12,
+       "diff": "facile",
+       "exec": "propre"
+      },
+      {
+       "w": 10,
+       "r": 10,
+       "diff": "correct",
+       "exec": "moyen"
+      },
+      {
+       "w": 7.5,
+       "r": 12,
+       "diff": "correct",
+       "exec": "propre"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "muodru1oc4t9ol",
+   "date": "2026-09-30",
+   "type": "B",
+   "typeName": "Séance B",
+   "start": 1790783866477,
+   "end": 1790789402076,
+   "exos": [
+    {
+     "exId": "mulnclawu0cdkw7",
+     "name": "Presse à cuisses 45°",
+     "primary": [
+      "Quadriceps"
+     ],
+     "secondary": [
+      "Fessiers",
+      "Ischio-jambiers"
+     ],
+     "sets": [
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "correct",
+       "exec": "moyen"
+      },
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "correct",
+       "exec": "moyen"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawumyf2b8",
+     "name": "Rowing Iso-Lateral",
+     "primary": [
+      "Haut du dos / trapèzes"
+     ],
+     "secondary": [
+      "Grand dorsal",
+      "Biceps",
+      "Épaules arrière"
+     ],
+     "sets": [
+      {
+       "w": 30,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 30,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 40,
+       "r": 9,
+       "diff": "dur",
+       "exec": "moyen"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclaw3icwqv9",
+     "name": "Développé incliné machine",
+     "primary": [
+      "Pectoraux"
+     ],
+     "secondary": [
+      "Épaules avant",
+      "Triceps"
+     ],
+     "sets": [
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "facile",
+       "exec": "propre"
+      },
+      {
+       "w": 30,
+       "r": 10,
+       "diff": "correct",
+       "exec": "moyen"
+      },
+      {
+       "w": 30,
+       "r": 8,
+       "diff": "dur",
+       "exec": "moyen"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawv3o6q411",
+     "name": "Leg extension",
+     "primary": [
+      "Quadriceps"
+     ],
+     "secondary": [],
+     "sets": [
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "dur",
+       "exec": "propre"
+      },
+      {
+       "w": 15,
+       "r": 12,
+       "diff": "dur",
+       "exec": "propre"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "mux1g95duotgt5",
+   "date": "2026-10-06",
+   "type": "A",
+   "typeName": "Séance A",
+   "start": 1791286996300,
+   "end": 1791312901969,
+   "exos": [
+    {
+     "exId": "mulnclawvwlyx60",
+     "name": "Hack squat / pendulum",
+     "primary": [
+      "Quadriceps"
+     ],
+     "secondary": [
+      "Fessiers",
+      "Adducteurs"
+     ],
+     "sets": [
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 30,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawyp56th1",
+     "name": "Chest press Iso-Lateral",
+     "primary": [
+      "Pectoraux"
+     ],
+     "secondary": [
+      "Triceps",
+      "Épaules avant"
+     ],
+     "sets": [
+      {
+       "w": 2030,
+       "r": 8,
+       "diff": "facile",
+       "exec": "propre"
+      },
+      {
+       "w": 40,
+       "r": 5,
+       "diff": "echec",
+       "exec": "arrache"
+      },
+      {
+       "w": 30,
+       "r": 8,
+       "diff": "correct",
+       "exec": "moyen"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclaw8tnhrp2",
+     "name": "Tirage vertical",
+     "primary": [
+      "Grand dorsal"
+     ],
+     "secondary": [
+      "Biceps",
+      "Haut du dos / trapèzes"
+     ],
+     "sets": [
+      {
+       "w": 35,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 42.5,
+       "r": 8,
+       "diff": "dur",
+       "exec": "moyen"
+      },
+      {
+       "w": 42.5,
+       "r": 7,
+       "diff": "echec",
+       "exec": "moyen"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawpyq2mn3",
+     "name": "Leg curl assis",
+     "primary": [
+      "Ischio-jambiers"
+     ],
+     "secondary": [
+      "Mollets"
+     ],
+     "sets": [
+      {
+       "w": 20,
+       "r": 10,
+       "diff": "correct",
+       "exec": "moyen"
+      },
+      {
+       "w": 20,
+       "r": 11,
+       "diff": "correct",
+       "exec": "moyen"
+      },
+      {
+       "w": 20,
+       "r": 11,
+       "diff": "correct",
+       "exec": "propre"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawq1pvf74",
+     "name": "Élévations latérales machine",
+     "primary": [
+      "Épaules latérales"
+     ],
+     "secondary": [
+      "Haut du dos / trapèzes"
+     ],
+     "sets": [
+      {
+       "w": 20,
+       "r": 5,
+       "diff": "echec",
+       "exec": "moyen"
+      },
+      {
+       "w": 15,
+       "r": 12,
+       "diff": "dur",
+       "exec": "propre"
+      },
+      {
+       "w": 15,
+       "r": 11,
+       "diff": "echec",
+       "exec": "propre"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawdp269h5",
+     "name": "Extension triceps machine",
+     "primary": [
+      "Triceps"
+     ],
+     "secondary": [],
+     "sets": [
+      {
+       "w": 35,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 35,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      }
+     ]
+    },
+    {
+     "exId": "mulnclawxs7keb6",
+     "name": "Crunch machine",
+     "primary": [
+      "Abdominaux"
+     ],
+     "secondary": [
+      "Obliques"
+     ],
+     "sets": [
+      {
+       "w": 35,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      },
+      {
+       "w": 35,
+       "r": 10,
+       "diff": "echec",
+       "exec": "moyen"
+      },
+      {
+       "w": 35,
+       "r": 10,
+       "diff": "correct",
+       "exec": "propre"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  }
+ ],
+ "nutrition": {},
+ "active": null,
+ "templates": [
+  {
+   "id": "A",
+   "name": "Séance A",
+   "short": "A",
+   "color": "#3d7be0",
+   "rotation": true,
+   "exIds": [
+    "mulnclawvwlyx60",
+    "mulnclawyp56th1",
+    "mulnclaw8tnhrp2",
+    "mulnclawpyq2mn3",
+    "mulnclawq1pvf74",
+    "mulnclawdp269h5",
+    "mulnclawxs7keb6",
+    "mulnclaw76jr8p14"
+   ]
+  },
+  {
+   "id": "B",
+   "name": "Séance B",
+   "short": "B",
+   "color": "#f2c230",
+   "rotation": true,
+   "exIds": [
+    "mulnclawu0cdkw7",
+    "mulnclawumyf2b8",
+    "mulnclaw3icwqv9",
+    "mulnclaw8e1b2r10",
+    "mulnclawv3o6q411",
+    "mulnclaws3va8012",
+    "mulnclawmplc4k13",
+    "mulnclaw76jr8p14"
+   ]
+  }
+ ]
+}
